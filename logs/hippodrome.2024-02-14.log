@@ -1,0 +1,30 @@
+2024-02-14 20:02:21.796 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-14 20:02:21.803 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-14 20:02:21.804 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-14 20:02:21.804 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-14 20:02:21.804 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-14 20:02:21.805 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2024-02-14 20:02:21.805 INFO Main: Начало скачек. Количество участников: 7
+2024-02-14 20:02:21.836 INFO Main: Окончание скачек. Победитель: Cherry
+2024-02-14 20:03:13.908 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-14 20:03:13.912 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-14 20:03:13.912 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-14 20:03:13.912 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-14 20:03:13.912 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-14 20:03:13.912 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-14 20:03:13.913 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-14 20:03:13.914 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2024-02-14 20:03:13.914 INFO Main: Начало скачек. Количество участников: 7
+2024-02-14 20:03:13.942 INFO Main: Окончание скачек. Победитель: Cherry
+2024-02-14 20:39:13.327 ERROR Horse: Name is null
+2024-02-14 20:39:53.502 ERROR Horse: Name is null
+2024-02-14 20:40:45.275 ERROR Horse: Name is null
+2024-02-14 20:40:50.636 ERROR Horse: Name is null
+2024-02-14 20:41:05.558 ERROR Horse: Name is null
+2024-02-14 20:48:09.120 ERROR Horse: Name is blank
+2024-02-14 20:48:09.155 ERROR Horse: Name is blank
+2024-02-14 20:48:09.162 ERROR Horse: Name is blank
+2024-02-14 20:48:09.168 ERROR Horse: Name is blank
+2024-02-14 20:48:09.175 ERROR Horse: Name is blank
+2024-02-14 20:48:09.182 ERROR Horse: Name is blank
+2024-02-14 20:48:09.189 ERROR Horse: Name is blank
