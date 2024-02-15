@@ -201,7 +201,7 @@ class HorseTest {
 
         try(MockedStatic<Horse> randHorseStep = Mockito.mockStatic(Horse.class)) {
             randHorseStep.when(() -> Horse.getRandomDouble(0.2, 0.9)).thenReturn(methodResult);
-            double expectedDistance = distance + speed * Horse.getRandomDouble(0.2, 0.9);
+            double expectedDistance = distance + speed * methodResult;
 
             //when
             horse.move();
